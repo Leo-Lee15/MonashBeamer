@@ -5,7 +5,7 @@ Template for generating Beamer slides for use by staff and students of the Monas
 
 Use *either* `Beamer_presentation.Rmd` or `Beamer_presentation.tex`. You do not need both.
 
-##Requirements
+## Requirements
 
 Make sure you have a recent (2016+) version of LaTeX installed. You also need the following components:
 
